@@ -249,19 +249,19 @@ function esVocal(letra){
 if (letra.length > 1 ) {
     return "Dato incorrecto"
   }
-  if (letra= 'a') {
+  if (letra== 'a') {
     return 'Es vocal'
   }
-  if (letra= 'e') {
+  if (letra== 'e') {
     return 'Es vocal'
   }
-  if (letra= 'i') {
+  if (letra== 'i') {
     return 'Es vocal'
   }
-  if (letra= 'o') {
+  if (letra== 'o') {
     return 'Es vocal'
   }
-  if (letra= 'u') {
+  if (letra== 'u') {
     return 'Es vocal'
   }
   return 'No es vocal'
